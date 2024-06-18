@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Results folder
+results/
+cache/
+data/STF_LOG_DIR/
+
+# Map Cache
+src/cache
+
+data/routing_data/path_time_dict.pkl
+data/routing_data/path_dict.pkl
+logfile.log
+data/routing_data/path_dict.pkl
+data/routing_data/path_time_dict.pkl
+data/routing_data/path_dict.pkl
